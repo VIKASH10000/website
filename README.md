@@ -154,6 +154,6 @@ image onclick.
 
 ## Author
 
-- LinkedIn - [Uzochukwu Victor Okafor](https://www.linkedin.com/in/vikash-864a721b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn - [Vikash](https://www.linkedin.com/in/vikash-864a721b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
