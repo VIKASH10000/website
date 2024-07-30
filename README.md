@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - [Live site URL](https://bookmark-landing-page-jade.vercel.app/)
-- [Solution URL](https://www.frontendmentor.io/solutions/responsive-bookmark-landing-page-built-using-html-css-and-javascript-sxztO_2Jo)
+
 
 ## My process
 
@@ -154,6 +154,6 @@ image onclick.
 
 ## Author
 
-- LinkedIn - [Uzochukwu Victor Okafor](https://www.linkedin.com/in/uzochukwuokafor/)
-- Frontend Mentor - [@uzoway](https://www.frontendmentor.io/profile/uzoway)
+- LinkedIn - [Uzochukwu Victor Okafor](https://www.linkedin.com/in/vikash-864a721b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
